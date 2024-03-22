@@ -7,7 +7,7 @@
   <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/76f307bf-ab94-4fcd-a485-936db11395d4   " width=22% height=35% >
 </p>
 
-![lecture3 1](https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/fe89e0be-d39e-4a2d-889f-7db63d518cf4)
+![lecture3 1](https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/fe89e0be-d39e-4a2d-889f-7db63d518cf4 width=22% height=35%)
 
 
 A new Flutter project.
