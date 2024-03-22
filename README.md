@@ -6,8 +6,8 @@
   <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/213cad75-c332-4c59-b6d2-9a3d2885d5b5   " width=22% height=35% >
   <img src = "https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/76f307bf-ab94-4fcd-a485-936db11395d4   " width=22% height=35% >
 </p>
-  
-![lecture3 1]()
+
+![lecture3 1](https://github.com/mayuuu05/anatomy_of_flutterapp/assets/149376263/fe89e0be-d39e-4a2d-889f-7db63d518cf4)
 
 
 A new Flutter project.
